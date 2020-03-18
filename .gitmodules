@@ -10,3 +10,7 @@
 	path = partner-contact
 	url = git@github.com:vauxoo/partner-contact.git
 	branch = 12.0
+[submodule "server-ux"]
+	path = server-ux
+	url = git@github.com:Vauxoo/server-ux.git
+	branch = 12.0
